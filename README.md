@@ -10,15 +10,6 @@
 
 <br><br>
 
-## 🙋‍♂️ Spring을 함께 공부하고자 모인 사람들
-
-- <a href="https://github.com/mingdyuo" target="_blank">mingdyuo 님</a> 
-- <a href="https://github.com/HYEEWON " target="_blank">HYEEWON 님</a> 
-- <a href="https://github.com/jiyunYun" target="_blank">jiyunYun님</a> 
-- <a href="https://github.com/osj3474" target="_blank">osj3474님</a>
-
-<br><br>
-
 ## 📆 프로젝트 기간
 
 2021.01.25. ~ 2021.03.18
